@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Variables</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>245b8809-7525-42a9-8ca4-00dc2cb283b9</testCaseGuid>
+   <variable>
+      <defaultValue>'uat'</defaultValue>
+      <description></description>
+      <id>0df5f9d8-88fb-4b5e-b244-113ea182c5b3</id>
+      <masked>false</masked>
+      <name>clientid</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>2afe2ad8-1f10-4b99-8995-57eeb947bdcf</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'123'</defaultValue>
+      <description></description>
+      <id>bb48ffe7-8852-4eaa-bbb1-1b29f47211e9</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
