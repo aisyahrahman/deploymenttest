@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Loading_ctl00_MainContent_InventoryTrans_8c15a6</name>
+   <tag></tag>
+   <elementGuidId>0e61672c-7f9a-463b-ab38-a44716dca948</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_MainContent_InventoryTransferDetail1_cbpInventoryTransferDetails_ASPxRoundPanel1_formInventoryTransfer_cbToWarehouse_cbWarehouse_B-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='ctl00_MainContent_InventoryTransferDetail1_cbpInventoryTransferDetails_ASPxRoundPanel1_formInventoryTransfer_cbToWarehouse_cbWarehouse_B-1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_MainContent_InventoryTransferDetail1_cbpInventoryTransferDetails_ASPxRoundPanel1_formInventoryTransfer_cbToWarehouse_cbWarehouse_B-1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dxeButton dxeButtonEditButton_iOS dxeButtonEditButtonHover_iOS</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onmousedown</name>
+      <type>Main</type>
+      <value>return ASPx.DDDropDown('ctl00_MainContent_InventoryTransferDetail1_cbpInventoryTransferDetails_ASPxRoundPanel1_formInventoryTransfer_cbToWarehouse_cbWarehouse', event)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_MainContent_InventoryTransferDetail1_cbpInventoryTransferDetails_ASPxRoundPanel1_formInventoryTransfer_cbToWarehouse_cbWarehouse_B-1&quot;)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Deployment test/ST/iframe_Stock Transfer_undefined</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='ctl00_MainContent_InventoryTransferDetail1_cbpInventoryTransferDetails_ASPxRoundPanel1_formInventoryTransfer_cbToWarehouse_cbWarehouse_B-1']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_MainContent_InventoryTransferDetail1_cbpInventoryTransferDetails_ASPxRoundPanel1_formInventoryTransfer_cbToWarehouse_cbWarehouse']/tbody/tr/td[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading…'])[12]/following::td[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Changes not saved because of incomplete required field(s).'])[2]/following::td[7]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Code'])[3]/preceding::td[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[2]/preceding::td[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/table/tbody/tr/td[2]/table[2]/tbody/tr/td/table[2]/tbody/tr/td[4]</value>
+   </webElementXpaths>
+</WebElementEntity>

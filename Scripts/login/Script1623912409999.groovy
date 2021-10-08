@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://sit.irsalaya.com/Account/Login.aspx')
+
+WebUI.setText(findTestObject('Object Repository/login/input_www.irs-software.com_cbpCallbacktxtClientId'), 'uat')
+
+WebUI.setText(findTestObject('Object Repository/login/input_Invalid value_cbpCallbacktxtUserName'), 'admin')
+
+WebUI.click(findTestObject('Object Repository/login/td_Invalid value_dxic'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/login/input_Invalid value_cbpCallbacktxtPassword'), 'tzH6RvlfSTg=')
+
+WebUI.click(findTestObject('Object Repository/login/span_Login'))
+
+WebUI.click(findTestObject('Object Repository/login/td'))
+
