@@ -113,10 +113,4 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Inventory/STR Draft 2</testCaseId>
    </testCaseLink>
-   <testCaseLink>
-      <guid>9d7593ba-6922-468a-a589-66164080ebeb</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Regression Test/Purchase/Purchase Order Draft</testCaseId>
-   </testCaseLink>
 </TestSuiteEntity>

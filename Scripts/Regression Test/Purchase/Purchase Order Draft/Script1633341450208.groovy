@@ -49,7 +49,7 @@ WebUI.click(findTestObject('Object Repository/Deployment test/PO Post/a_Purchase
 
 WebUI.click(findTestObject('Object Repository/Deployment test/PO Post/img_Reorder Advice_ctl00_MainContent_Purcha_0d48cb'))
 
-WebUI.delay(5)
+WebUI.delay(7)
 
 WebUI.click(findTestObject('Object Repository/Deployment test/PO Post/img_Loading_ctl00_MainContent_PurchaseOrderDetail1_cbpPurchaseOrder_cbpPOHeader_ASPxRoundPanel1_formPOHeader_cbVendor_cbVendor_B1Img (1)'))
 
