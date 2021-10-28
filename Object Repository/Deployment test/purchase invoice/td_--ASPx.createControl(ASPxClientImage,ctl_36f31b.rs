@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_--ASPx.createControl(ASPxClientImage,ctl_36f31b</name>
+   <tag></tag>
+   <elementGuidId>4c543aed-db6d-4976-ac48-4791dc8c5785</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_MainContent_PurchaseInvoices1_cpnlPurchaseInvoices_formPurchaseInvoices_gvPurchaseInvoices_tcheader16</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='ctl00_MainContent_PurchaseInvoices1_cpnlPurchaseInvoices_formPurchaseInvoices_gvPurchaseInvoices_tcheader16']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_MainContent_PurchaseInvoices1_cpnlPurchaseInvoices_formPurchaseInvoices_gvPurchaseInvoices_tcheader16</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                
+&lt;!--
+ASPx.createControl(ASPxClientImage,'ctl00_MainContent_PurchaseInvoices1_cpnlPurchaseInvoices_formPurchaseInvoices_gvPurchaseInvoices_header16_btnCheckAll','btnCheckAll',{'uniqueID':'ctl00$MainContent$PurchaseInvoices1$cpnlPurchaseInvoices$formPurchaseInvoices$gvPurchaseInvoices$header16$btnCheckAll','scStates':4,'scPostfix':'iOS'},{'Click':AddButtonClick});
+
+//-->
+
+                                            </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_MainContent_PurchaseInvoices1_cpnlPurchaseInvoices_formPurchaseInvoices_gvPurchaseInvoices_tcheader16&quot;)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Deployment test/purchase invoice/iframe_Purchase Invoice_54</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='ctl00_MainContent_PurchaseInvoices1_cpnlPurchaseInvoices_formPurchaseInvoices_gvPurchaseInvoices_tcheader16']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='ctl00_MainContent_PurchaseInvoices1_cpnlPurchaseInvoices_formPurchaseInvoices_gvPurchaseInvoices_col16']/table/tbody/tr/td</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[3]/following::td[13]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search:'])[1]/following::td[17]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Date'])[1]/preceding::td[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document No.'])[1]/preceding::td[5]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/table/tbody/tr[2]/td/table/tbody/tr/td</value>
+   </webElementXpaths>
+</WebElementEntity>

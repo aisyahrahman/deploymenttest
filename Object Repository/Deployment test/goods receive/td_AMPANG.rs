@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_AMPANG</name>
+   <tag></tag>
+   <elementGuidId>b105cf1d-653a-417f-a139-315e5517a39a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_MainContent_PurchaseGoodReceiveDetail1_cbpPurchaseGoodReceive_cbpPGRHeader_ASPxRoundPanel1_formPGRHeader_cbSelectWareHouse_cbWarehouse_DDD_L_LBI0T1</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'AMPANG' or . = 'AMPANG') and @ref_element = 'Object Repository/Deployment test/goods receive/iframe_Goods Receive_undefined_1']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='ctl00_MainContent_PurchaseGoodReceiveDetail1_cbpPurchaseGoodReceive_cbpPGRHeader_ASPxRoundPanel1_formPGRHeader_cbSelectWareHouse_cbWarehouse_DDD_L_LBI0T1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dxeListBoxItem_iOS dxeLTM dxeListBoxItemHover_iOS dxeListBoxItemSelected_iOS</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_MainContent_PurchaseGoodReceiveDetail1_cbpPurchaseGoodReceive_cbpPGRHeader_ASPxRoundPanel1_formPGRHeader_cbSelectWareHouse_cbWarehouse_DDD_L_LBI0T1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AMPANG</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_MainContent_PurchaseGoodReceiveDetail1_cbpPurchaseGoodReceive_cbpPGRHeader_ASPxRoundPanel1_formPGRHeader_cbSelectWareHouse_cbWarehouse_DDD_L_LBI0T1&quot;)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Deployment test/goods receive/iframe_Goods Receive_undefined (1)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='ctl00_MainContent_PurchaseGoodReceiveDetail1_cbpPurchaseGoodReceive_cbpPGRHeader_ASPxRoundPanel1_formPGRHeader_cbSelectWareHouse_cbWarehouse_DDD_L_LBI0T1']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_MainContent_PurchaseGoodReceiveDetail1_cbpPurchaseGoodReceive_cbpPGRHeader_ASPxRoundPanel1_formPGRHeader_cbSelectWareHouse_cbWarehouse_DDD_L_LBT']/tr/td[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AMPANG'])[1]/following::td[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[6]/following::td[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BERCHAM RAYA'])[1]/preceding::td[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BERCHAM RAYA'])[2]/preceding::td[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[2]/tr/td[2]</value>
+   </webElementXpaths>
+</WebElementEntity>
