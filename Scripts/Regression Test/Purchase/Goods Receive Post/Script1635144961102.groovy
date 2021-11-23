@@ -56,7 +56,7 @@ WebUI.click(findTestObject('Object Repository/Deployment test/goods receive/span
 WebUI.delay(5)
 
 WebUI.setText(findTestObject('Object Repository/Deployment test/goods receive/input__ctl00MainContentPurchaseGoodReceiveD_1b6e3f'), 
-    'test123')
+    'test1234')
 
 WebUI.delay(5)
 

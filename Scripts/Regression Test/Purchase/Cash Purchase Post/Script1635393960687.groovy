@@ -18,6 +18,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.navigateToUrl('http://sit.irsalaya.com/Account/Login.aspx')
+
 WebUI.setText(findTestObject('Object Repository/Deployment test/Cash Purchase Post/input_www.irs-software.com_cbpCallbacktxtClientId'), 
     'uat')
 
@@ -54,7 +56,7 @@ WebUI.click(findTestObject('Object Repository/Deployment test/Cash Purchase Post
 WebUI.delay(5)
 
 WebUI.setText(findTestObject('Object Repository/Deployment test/Cash Purchase Post/input__ctl00MainContentCashPurchaseDetailcb_5c1e14'), 
-    'DEP03')
+    'DEP06')
 
 WebUI.delay(5)
 

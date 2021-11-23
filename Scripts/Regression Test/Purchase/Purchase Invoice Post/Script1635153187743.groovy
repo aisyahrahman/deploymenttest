@@ -34,7 +34,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Deployment test/purchas
 
 WebUI.click(findTestObject('Object Repository/Deployment test/purchase invoice/div_Login'))
 
-WebUI.click(findTestObject('Object Repository/Deployment test/purchase invoice/span_Purchase_dxWeb_nbExpand_iOS'))
+WebUI.click(findTestObject('Deployment test/purchase invoice/span_Purchase_dxWeb_nbExpand_iOS'))
 
 WebUI.click(findTestObject('Object Repository/Deployment test/purchase invoice/a_Purchase Invoice'))
 
@@ -55,7 +55,7 @@ WebUI.waitForElementClickable(findTestObject('Deployment test/purchase invoice/s
 WebUI.delay(5)
 
 WebUI.setText(findTestObject('Object Repository/Deployment test/purchase invoice/input__ctl00MainContentPurchaseInvoiceDetai_52c477'), 
-    'deployment test')
+    'deployment test1')
 
 WebUI.delay(5)
 
