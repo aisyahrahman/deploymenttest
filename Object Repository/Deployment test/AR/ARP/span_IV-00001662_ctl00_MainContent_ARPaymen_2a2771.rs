@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_IV-00001662_ctl00_MainContent_ARPaymen_2a2771</name>
+   <tag></tag>
+   <elementGuidId>94b8ad9b-1202-4f63-9192-5f0951ac5a84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='ctl00_MainContent_ARPaymentDtl_cbpARPayment_cpnlARPaymentItem_formARPaymentItem_PC_0_cbpARPaymentDetails2_formARPaymentDetails2_gvKnockOffItem_cell0_12_cbCheck_S_D']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_MainContent_ARPaymentDtl_cbpARPayment_cpnlARPaymentItem_formARPaymentItem_PC_0_cbpARPaymentDetails2_formARPaymentDetails2_gvKnockOffItem_cell0_12_cbCheck_S_D</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dxWeb_edtCheckBoxUnchecked_iOS dxICheckBox_iOS dxichSys dx-not-acc</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_MainContent_ARPaymentDtl_cbpARPayment_cpnlARPaymentItem_formARPaymentItem_PC_0_cbpARPaymentDetails2_formARPaymentDetails2_gvKnockOffItem_cell0_12_cbCheck_S_D</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_MainContent_ARPaymentDtl_cbpARPayment_cpnlARPaymentItem_formARPaymentItem_PC_0_cbpARPaymentDetails2_formARPaymentDetails2_gvKnockOffItem_cell0_12_cbCheck_S_D&quot;)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Deployment test/AR/ARP/iframe_AR Payment_undefined</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='ctl00_MainContent_ARPaymentDtl_cbpARPayment_cpnlARPaymentItem_formARPaymentItem_PC_0_cbpARPaymentDetails2_formARPaymentDetails2_gvKnockOffItem_cell0_12_cbCheck_S_D']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='ctl00_MainContent_ARPaymentDtl_cbpARPayment_cpnlARPaymentItem_formARPaymentItem_PC_0_cbpARPaymentDetails2_formARPaymentDetails2_gvKnockOffItem_cell0_12_cbCheck']/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IV-00001662'])[1]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[13]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading…'])[24]/preceding::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='February 2022'])[8]/preceding::span[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[6]/span/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'ctl00_MainContent_ARPaymentDtl_cbpARPayment_cpnlARPaymentItem_formARPaymentItem_PC_0_cbpARPaymentDetails2_formARPaymentDetails2_gvKnockOffItem_cell0_12_cbCheck_S_D']</value>
+   </webElementXpaths>
+</WebElementEntity>

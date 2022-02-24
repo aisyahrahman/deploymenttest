@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>amount</name>
+   <tag></tag>
+   <elementGuidId>98a44b1b-28ed-43af-8fdc-1a9f811f5ad6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;ctl00_MainContent_ARJournalEntryDTL_cbpARJournalEntry_cpnlARJEItem_formARJEItem_PC_0_gvARJEItem_DXDataRow0&quot;]/td[8]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
