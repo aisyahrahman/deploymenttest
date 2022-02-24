@@ -6,6 +6,7 @@
    <UUID>a5ee7e00-f97c-4d01-99ad-42c48df1a3cc</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\irspos\git\deploymenttest\deploymenttest.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

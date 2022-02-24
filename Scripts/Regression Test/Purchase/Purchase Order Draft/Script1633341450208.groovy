@@ -79,3 +79,4 @@ WebUI.delay(3)
 
 WebUI.click(findTestObject('PO Post/span_Save Draft'))
 
+WebUI.delay(10)

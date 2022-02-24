@@ -66,4 +66,4 @@ WebUI.click(findTestObject('Object Repository/STR3/span_OK'))
 WebUI.delay(6)
 
 WebUI.click(findTestObject('Object Repository/STR3/span_Post'))
-
+WebUI.delay(10)

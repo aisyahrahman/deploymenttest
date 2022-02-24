@@ -39,7 +39,7 @@ WebUI.click(findTestObject('Object Repository/Deployment test/Cash Purchase Post
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/Deployment test/Cash Purchase Post/img_Clear_ctl00_MainContent_CashPurchase1_cpnlCashPurchase_formCashPurchase_gvCashPurchase_header16_btnCheckAll'))
+WebUI.click(findTestObject('Deployment test/Cash Purchase Post/img_Clear_ctl00_MainContent_CashPurchase1_cpnlCashPurchase_formCashPurchase_gvCashPurchase_header16_btnCheckAll'))
 
 WebUI.delay(5)
 
@@ -56,7 +56,7 @@ WebUI.click(findTestObject('Object Repository/Deployment test/Cash Purchase Post
 WebUI.delay(5)
 
 WebUI.setText(findTestObject('Object Repository/Deployment test/Cash Purchase Post/input__ctl00MainContentCashPurchaseDetailcb_5c1e14'), 
-    'DEP06')
+    'DEP09')
 
 WebUI.delay(5)
 
@@ -95,4 +95,6 @@ WebUI.click(findTestObject('Object Repository/Deployment test/Cash Purchase Post
 WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/Deployment test/Cash Purchase Post/div_OK_1_2'))
+
+WebUI.delay(10)
 

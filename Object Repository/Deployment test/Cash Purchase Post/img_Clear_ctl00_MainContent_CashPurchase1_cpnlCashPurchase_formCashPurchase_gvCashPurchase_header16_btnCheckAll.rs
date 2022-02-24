@@ -4,14 +4,23 @@
    <name>img_Clear_ctl00_MainContent_CashPurchase1_cpnlCashPurchase_formCashPurchase_gvCashPurchase_header16_btnCheckAll</name>
    <tag></tag>
    <elementGuidId>760cebd2-0f01-4680-ac9c-0aa27963326a</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_MainContent_CashPurchase1_cpnlCashPurchase_formCashPurchase_gvCashPurchase_header16_btnCheckAll</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//img[@id='ctl00_MainContent_CashPurchase1_cpnlCashPurchase_formCashPurchase_gvCashPurchase_header16_btnCheckAll']</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#ctl00_MainContent_CashPurchase1_cpnlCashPurchase_formCashPurchase_gvCashPurchase_header16_btnCheckAll</value>
+         <key>BASIC</key>
+         <value>//*[@title = 'Click Here Or Press [Insert] To Add Record' and @id = 'ctl00_MainContent_CashPurchase1_cpnlCashPurchase_formCashPurchase_gvCashPurchase_header16_btnCheckAll' and @src = '../../Content/Images/Add_16x16.png?1=1' and @ref_element = 'Object Repository/Deployment test/Cash Purchase Post/iframe_Cash Purchase_177']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

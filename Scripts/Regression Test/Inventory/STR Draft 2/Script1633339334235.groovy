@@ -72,4 +72,4 @@ WebUI.click(findTestObject('Object Repository/STR3/span_OK'))
 WebUI.delay(6)
 
 WebUI.click(findTestObject('Deployment test/STR (1)/span_Save Draft'))
-
+WebUI.delay(10)

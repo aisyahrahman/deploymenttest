@@ -67,3 +67,4 @@ WebUI.delay(4)
 
 WebUI.click(findTestObject('Deployment test/STR (1)/span_Post  New'))
 
+WebUI.delay(10)

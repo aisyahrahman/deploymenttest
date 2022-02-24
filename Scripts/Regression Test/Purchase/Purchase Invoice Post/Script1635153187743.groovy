@@ -55,7 +55,7 @@ WebUI.waitForElementClickable(findTestObject('Deployment test/purchase invoice/s
 WebUI.delay(5)
 
 WebUI.setText(findTestObject('Object Repository/Deployment test/purchase invoice/input__ctl00MainContentPurchaseInvoiceDetai_52c477'), 
-    'deployment test1')
+    'DEP01')
 
 WebUI.delay(5)
 
@@ -77,3 +77,4 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/Deployment test/purchase invoice/span_Post (2)'))
 
+WebUI.delay(10)
