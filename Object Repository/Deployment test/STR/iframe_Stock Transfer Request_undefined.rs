@@ -3,15 +3,15 @@
    <description></description>
    <name>iframe_Stock Transfer Request_undefined</name>
    <tag></tag>
-   <elementGuidId>31746242-4055-4783-8125-83f325cb2798</elementGuidId>
+   <elementGuidId>2c8f6a6f-bbed-495e-83d3-1a3c2b9c5683</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#undefined</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//iframe[@id='undefined']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#undefined</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -63,7 +63,7 @@
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/Modules/Inventory/m_InventoryTransferRequestDetail.aspx?EncData=ixN39CgDRJlYmqKCjkDwTLfxTcyIYsS06FdymWB7qSIDS+70tbAmB5LCiVsDf9OP/QNTaGCrEVO1bk158obIGnKpyYq8Ukt+3rXEuR87U+tGvdY38YloyL/tqdLp/hdwf4GkT9NWoC3BtVZRkbDshBfxLwZsQOy10cX6tCscU67xfEvS4CSlJBI0wIIIcfjKsAoyem2itZ//P/M/dk/PQ4nblGuQH0F2bCGyMvt1HTE=</value>
+      <value>/Modules/Inventory/m_InventoryTransferRequestDetail.aspx?EncData=ixN39CgDRJlYmqKCjkDwTLfxTcyIYsS06FdymWB7qSIDS+70tbAmB5LCiVsDf9OP/QNTaGCrEVO1bk158obIGnKpyYq8Ukt+3rXEuR87U+uvmFzJCQ0LmprkBBm25mrDSKqpmiKxFS8jezS0CkoLTakiF8Bq9m2kuze3/6cmUFv9Kwyw7gl+BEncXVJbf2xjWm2M71Cb9vla5g4xSqdX4e6BGlrdJLSX26nkJY1chns=</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -99,5 +99,12 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//iframe</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@name = 'undefined' and @id = 'undefined' and @src = '/Modules/Inventory/m_InventoryTransferRequestDetail.aspx?EncData=ixN39CgDRJlYmqKCjkDwTLfxTcyIYsS06FdymWB7qSIDS+70tbAmB5LCiVsDf9OP/QNTaGCrEVO1bk158obIGnKpyYq8Ukt+3rXEuR87U+uvmFzJCQ0LmprkBBm25mrDSKqpmiKxFS8jezS0CkoLTakiF8Bq9m2kuze3/6cmUFv9Kwyw7gl+BEncXVJbf2xjWm2M71Cb9vla5g4xSqdX4e6BGlrdJLSX26nkJY1chns=']</value>
    </webElementXpaths>
 </WebElementEntity>

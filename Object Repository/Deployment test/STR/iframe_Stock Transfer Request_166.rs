@@ -3,15 +3,15 @@
    <description></description>
    <name>iframe_Stock Transfer Request_166</name>
    <tag></tag>
-   <elementGuidId>152edfa1-8942-41ac-893f-12e4efd54271</elementGuidId>
+   <elementGuidId>c3c7825a-81a8-4a35-aee5-194f72a78390</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#166</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//iframe[@id='166']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#166</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -63,7 +63,7 @@
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>http://sit.irsalaya.com/Modules/Inventory/m_InventoryTransferRequest.aspx</value>
+      <value>https://sit.irsalaya.com/Modules/Inventory/m_InventoryTransferRequest.aspx</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -99,5 +99,12 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//iframe</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@name = '166' and @id = '166' and @src = 'https://sit.irsalaya.com/Modules/Inventory/m_InventoryTransferRequest.aspx']</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Report > AR > Customer Aging</description>
+   <name>AR-CA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>78e054db-07dc-4a7d-9ec3-b5e4fc1fd031</testCaseGuid>
+</TestCaseEntity>

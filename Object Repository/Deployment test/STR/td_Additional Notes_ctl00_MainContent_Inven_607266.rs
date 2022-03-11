@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Additional Notes_ctl00_MainContent_Inven_607266</name>
+   <tag></tag>
+   <elementGuidId>bf5f14da-2113-4978-a4fa-198d430611e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='ctl00_MainContent_InventoryTransferRequestDetail1_cbpInventoryTransferRequestDetails_cpnlITDetail_formITDetail_PC_0_ItemAdvanceSearchControlSIDetail_txtItemSearchUpdate_B0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_MainContent_InventoryTransferRequestDetail1_cbpInventoryTransferRequestDetails_cpnlITDetail_formITDetail_PC_0_ItemAdvanceSearchControlSIDetail_txtItemSearchUpdate_B0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_MainContent_InventoryTransferRequestDetail1_cbpInventoryTransferRequestDetails_cpnlITDetail_formITDetail_PC_0_ItemAdvanceSearchControlSIDetail_txtItemSearchUpdate_B0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dxeButton dxeButtonEditButton_iOS dxeButtonEditButtonHover_iOS</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>ASPx.BEClick('ctl00_MainContent_InventoryTransferRequestDetail1_cbpInventoryTransferRequestDetails_cpnlITDetail_formITDetail_PC_0_ItemAdvanceSearchControlSIDetail_txtItemSearchUpdate',0)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_MainContent_InventoryTransferRequestDetail1_cbpInventoryTransferRequestDetails_cpnlITDetail_formITDetail_PC_0_ItemAdvanceSearchControlSIDetail_txtItemSearchUpdate_B0&quot;)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Deployment test/STR/iframe_Stock Transfer Request_undefined</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='ctl00_MainContent_InventoryTransferRequestDetail1_cbpInventoryTransferRequestDetails_cpnlITDetail_formITDetail_PC_0_ItemAdvanceSearchControlSIDetail_txtItemSearchUpdate_B0']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='ctl00_MainContent_InventoryTransferRequestDetail1_cbpInventoryTransferRequestDetails_cpnlITDetail_formITDetail_PC_0_ItemAdvanceSearchControlSIDetail_txtItemSearchUpdate']/tbody/tr/td[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Notes'])[2]/following::td[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Notes'])[1]/following::td[4]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Insert'])[1]/preceding::td[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Item'])[1]/preceding::td[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/div/div/div/table/tbody/tr/td/div/table/tbody/tr/td/div/table/tbody/tr/td[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@id = 'ctl00_MainContent_InventoryTransferRequestDetail1_cbpInventoryTransferRequestDetails_cpnlITDetail_formITDetail_PC_0_ItemAdvanceSearchControlSIDetail_txtItemSearchUpdate_B0']</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -12,19 +12,37 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>40283af2-2eed-46ea-9fe4-5c1a033a37e6</testSuiteGuid>
    <testCaseLink>
-      <guid>baaadf53-e56b-4d11-90e6-ec6e6c46ed6c</guid>
+      <guid>e5e5addf-550c-4d2d-8b38-3992a8e3576c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/AR/AR INVOICE</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>1a03d328-00ba-4d75-9f13-e1e94b741aa7</guid>
+      <guid>88c67061-849f-4b8f-8148-b29e25c07937</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/AR/AR Payment</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>cbc67067-30c3-4f4d-9f4e-b1a3bf6e6800</guid>
+      <guid>456679dd-c99b-465c-824d-7a3189760542</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Regression Test/AR/ARC</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>caa5a754-da12-4aa4-b4af-bf259c8ee79a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Regression Test/AR/ARCN</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9e571a8f-29e0-4f49-998d-d64e439794fa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Regression Test/AR/ARDN</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1ff446f6-95c5-43d5-b0eb-7cd772262ba7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/AR/ARPR</testCaseId>

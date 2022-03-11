@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Stock Transfer Request</name>
    <tag></tag>
-   <elementGuidId>1255b0d0-4beb-443f-a362-0984343238e1</elementGuidId>
+   <elementGuidId>d8ad9b7c-e1c6-4d77-a443-38e78848d205</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>a[name=&quot;Stock Transfer Request#~/Modules/Inventory/m_InventoryTransferRequest.aspx#166&quot;]</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[@name='Stock Transfer Request#~/Modules/Inventory/m_InventoryTransferRequest.aspx#166']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a[name=&quot;Stock Transfer Request#~/Modules/Inventory/m_InventoryTransferRequest.aspx#166&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -141,5 +141,12 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/ul/li[5]/a</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and @name = 'Stock Transfer Request#~/Modules/Inventory/m_InventoryTransferRequest.aspx#166' and (text() = 'Stock Transfer Request' or . = 'Stock Transfer Request')]</value>
    </webElementXpaths>
 </WebElementEntity>

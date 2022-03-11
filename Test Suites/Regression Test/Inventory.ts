@@ -83,22 +83,4 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Inventory/ST</testCaseId>
    </testCaseLink>
-   <testCaseLink>
-      <guid>d4e2d97d-53a0-4941-9713-b23368273582</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Regression Test/Inventory/STR Post N New</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>4e5128ea-7e68-493e-9bcb-1aafc7fe203f</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Regression Test/Inventory/STR Post</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>7cd0da31-b0f0-479e-8bf0-d0b1d2c96b1c</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Regression Test/Inventory/STR Draft 2</testCaseId>
-   </testCaseLink>
 </TestSuiteEntity>

@@ -3,15 +3,15 @@
    <description></description>
    <name>img_Loading_ctl00_MainContent_InventoryTransferRequestDetail1_cbpInventoryTransferRequestDetails_ASPxRoundPanel1_formInventoryTransferRequest_cbFromWarehouse_cbWarehouse_B-1Img</name>
    <tag></tag>
-   <elementGuidId>a99b6e9f-ef2f-4b1d-9c13-a55601fce6cd</elementGuidId>
+   <elementGuidId>5ac41a86-1122-4ee7-9f34-80ba0f1d8106</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#ctl00_MainContent_InventoryTransferRequestDetail1_cbpInventoryTransferRequestDetails_ASPxRoundPanel1_formInventoryTransferRequest_cbFromWarehouse_cbWarehouse_B-1Img</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//img[@id='ctl00_MainContent_InventoryTransferRequestDetail1_cbpInventoryTransferRequestDetails_ASPxRoundPanel1_formInventoryTransferRequest_cbFromWarehouse_cbWarehouse_B-1Img']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_MainContent_InventoryTransferRequestDetail1_cbpInventoryTransferRequestDetails_ASPxRoundPanel1_formInventoryTransferRequest_cbFromWarehouse_cbWarehouse_B-1Img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -42,7 +42,7 @@
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/DXR.axd?r=1_110-AJMSh</value>
+      <value>/DXR.axd?r=1_110-xoLhl</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -92,5 +92,12 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[4]/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@id = 'ctl00_MainContent_InventoryTransferRequestDetail1_cbpInventoryTransferRequestDetails_ASPxRoundPanel1_formInventoryTransferRequest_cbFromWarehouse_cbWarehouse_B-1Img' and @src = '/DXR.axd?r=1_110-xoLhl' and @alt = 'v']</value>
    </webElementXpaths>
 </WebElementEntity>
