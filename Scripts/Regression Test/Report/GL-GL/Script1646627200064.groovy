@@ -48,4 +48,4 @@ WebUI.click(findTestObject('Object Repository/Deployment test/RPT/GL/span_Genera
 WebUI.click(findTestObject('Object Repository/Deployment test/RPT/GL/div_Preview Report'))
 
 WebUI.click(findTestObject('Object Repository/Deployment test/RPT/GL/div_Preview'))
-
+WebUI.delay(20)

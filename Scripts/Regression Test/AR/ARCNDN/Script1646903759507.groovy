@@ -17,6 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+
+Date todaysDate = new Date();
+def seq = todaysDate.format("dd-MMM-yyyy hh:mm:ss")
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://sit.irsalaya.com/Account/Login.aspx')
@@ -51,7 +55,7 @@ WebUI.delay(5)
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/Deployment test/AR/ARCN/td_SHAHIDA BINTI MOHD MOKHTAR'))
+WebUI.click(findTestObject('Deployment test/AR/ARCN/td_SHAHIDA BINTI MOHD MOKHTAR'))
 
 WebUI.delay(5)
 
@@ -59,8 +63,7 @@ WebUI.click(findTestObject('Object Repository/Deployment test/AR/ARCN/span_OK'))
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('Object Repository/Deployment test/AR/ARCN/input__ctl00MainContentARCreditNoteDtlcbpAR_f32abe'), 
-    'Deployment Test')
+WebUI.setText(findTestObject('Object Repository/Deployment test/AR/ARCN/input__ctl00MainContentARCreditNoteDtlcbpAR_f32abe'),seq)
 
 WebUI.delay(5)
 
@@ -96,7 +99,7 @@ WebUI.click(findTestObject('Object Repository/Deployment test/AR/ARCN/img_Loadin
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/Deployment test/AR/ARCN/td_SHAHIDA BINTI MOHD MOKHTAR'))
+WebUI.click(findTestObject('Deployment test/AR/ARCN/td_SHAHIDA BINTI MOHD MOKHTAR'))
 
 WebUI.delay(5)
 
@@ -104,8 +107,7 @@ WebUI.click(findTestObject('Object Repository/Deployment test/AR/ARCN/span_OK'))
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('Object Repository/Deployment test/AR/ARCN/input__ctl00MainContentARCreditNoteDtlcbpAR_f32abe'), 
-    'Deployment Test')
+WebUI.setText(findTestObject('Object Repository/Deployment test/AR/ARCN/input__ctl00MainContentARCreditNoteDtlcbpAR_f32abe'),seq)
 
 WebUI.delay(5)
 
@@ -135,5 +137,5 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Deployment test/AR/ARCN/draft/div_Save Draft'))
 
-WebUI.delay(10)
+WebUI.delay(20)
 

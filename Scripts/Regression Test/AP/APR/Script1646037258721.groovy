@@ -84,5 +84,4 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/Deployment test/AP/APR/div_Post'))
 
-WebUI.delay(5)
-
+WebUI.delay(20)

@@ -85,5 +85,5 @@ WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/Deployment test/AR/ARP/span_Post'))
 
-WebUI.delay(10)
+WebUI.delay(20)
 

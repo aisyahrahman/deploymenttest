@@ -46,4 +46,4 @@ WebUI.click(findTestObject('Object Repository/Deployment test/RPT/AR/div_Custome
 WebUI.click(findTestObject('Object Repository/Deployment test/RPT/AR/div_Preview Report'))
 
 WebUI.click(findTestObject('Object Repository/Deployment test/RPT/AR/div_Preview'))
-
+WebUI.delay(20)

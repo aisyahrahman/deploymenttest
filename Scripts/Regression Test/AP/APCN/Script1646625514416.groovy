@@ -17,6 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+//String seq = System.currentTimeMillis().toString()
+
+// this will give you current timestamp in seconds
+//long seq1 = System.currentTimeMillis() /// 1000L
+
+// you need string, so simply convert long to String
+//String seq = seq1.toString()
+
+
+Date todaysDate = new Date();
+def seq = todaysDate.format("dd-MMM-yyyy hh:mm:ss")
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://sit.irsalaya.com/Account/Login.aspx')
@@ -55,8 +67,7 @@ WebUI.click(findTestObject('Object Repository/Deployment test/AP/APCN/span_OK'))
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('Object Repository/Deployment test/AP/APCN/input__ctl00MainContentAPCreditNoteDtlcbpAP_a16ea8'), 
-    'Deployment Test')
+WebUI.setText(findTestObject('Object Repository/Deployment test/AP/APCN/input__ctl00MainContentAPCreditNoteDtlcbpAP_a16ea8'),seq)
 
 WebUI.click(findTestObject('Object Repository/Deployment test/AP/APCN/img_Tax Itemize_ctl00_MainContent_APCreditN_9f7465'))
 
@@ -86,5 +97,5 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/Deployment test/AP/APCN/div_Post'))
 
-WebUI.delay(5)
+WebUI.delay(20)
 

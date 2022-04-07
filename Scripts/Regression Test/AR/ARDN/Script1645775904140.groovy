@@ -77,4 +77,4 @@ WebUI.setText(findTestObject('Object Repository/Deployment test/AR/ARDN/input_De
 WebUI.delay(10)
 
 WebUI.click(findTestObject('Object Repository/Deployment test/AR/ARDN/div_Post'))
-
+WebUI.delay(20)

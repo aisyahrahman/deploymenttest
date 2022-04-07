@@ -78,5 +78,5 @@ WebUI.doubleClick(findTestObject('Object Repository/Deployment test/PO Post/td_S
 WebUI.delay(3)
 
 WebUI.click(findTestObject('Deployment test/PO Post/span_Post  New'))
-WebUI.delay(10)
+WebUI.delay(20)
 

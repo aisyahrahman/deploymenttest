@@ -17,6 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+Date todaysDate = new Date();
+def seq = todaysDate.format("dd-MMM-yyyy hh:mm:ss")
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://sit.irsalaya.com/Account/Login.aspx')
@@ -57,8 +60,7 @@ WebUI.click(findTestObject('Object Repository/Deployment test/AP/APDN/span_OK'))
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('Object Repository/Deployment test/AP/APDN/input__ctl00MainContentAPDebitNoteDtlcbpAPD_b6b9a7'), 
-    'AP01')
+WebUI.setText(findTestObject('Object Repository/Deployment test/AP/APDN/input__ctl00MainContentAPDebitNoteDtlcbpAPD_b6b9a7'),seq)
 
 WebUI.delay(5)
 
@@ -83,5 +85,5 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/Deployment test/AP/APDN/div_Post'))
 
-WebUI.delay(5)
+WebUI.delay(20)
 

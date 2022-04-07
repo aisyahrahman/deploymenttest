@@ -17,6 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+Date todaysDate = new Date();
+def seq = todaysDate.format("dd-MMM-yyyy hh:mm:ss")
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://sit.irsalaya.com/Account/Login.aspx')
@@ -54,8 +57,7 @@ WebUI.waitForElementClickable(findTestObject('Deployment test/purchase invoice/s
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('Object Repository/Deployment test/purchase invoice/input__ctl00MainContentPurchaseInvoiceDetai_52c477'), 
-    'DEP01')
+WebUI.setText(findTestObject('Object Repository/Deployment test/purchase invoice/input__ctl00MainContentPurchaseInvoiceDetai_52c477'),seq)
 
 WebUI.delay(5)
 
@@ -77,4 +79,5 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/Deployment test/purchase invoice/span_Post (2)'))
 
-WebUI.delay(10)
+WebUI.delay(20)
+

@@ -12,55 +12,67 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>1667ae91-3849-4316-8586-df0b3cf6b084</testSuiteGuid>
    <testCaseLink>
-      <guid>041663f2-ed96-4529-816a-5466c33ca90c</guid>
+      <guid>0ba67199-bd37-44cf-ba16-8d4365fee743</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Regression Test/Purchase/Purchase Order Draft</testCaseId>
+      <testCaseId>Test Cases/Regression Test/Purchase/Cash Purchase DPN</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>9daf3cd0-8112-4683-873f-52932a2cecef</guid>
+      <guid>f598eaa8-d6b5-4535-82f7-0bf90fc0f5e9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Regression Test/Purchase/Purchase Order Post New</testCaseId>
+      <testCaseId>Test Cases/Regression Test/Purchase/Cash Purchase Draft</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>b5f767a9-e7d8-4fcb-b27d-4568db818a30</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Regression Test/Purchase/Purchase Order Post</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>dbbc659b-435d-4025-9321-77ced6dcda07</guid>
+      <guid>4bfaba83-4877-4787-950c-75d005aa96d9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Purchase/Cash Purchase Post</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>787629be-fa92-4af3-a9c9-cd7b1d359869</guid>
+      <guid>cf319c1d-10c6-4def-86d7-7d9bcca31b3a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Purchase/Close Purchase Order Post</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>da7ec893-14ae-4da2-9966-38f666ffa760</guid>
+      <guid>ad5db877-8889-4917-915c-a652cceffc30</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Purchase/Goods Receive Post</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>e57d850e-b173-4673-82f2-dac45cc5fdd0</guid>
+      <guid>8a8016c3-7233-4996-9668-6498f881e832</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Purchase/Goods Return Post</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>bcfcdb1d-33aa-4953-9491-acedbe405f55</guid>
+      <guid>986e2d4c-3c2b-4203-8799-2a1f3bb66b2e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Purchase/Purchase Invoice Post</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>0ed4b7ed-23d8-4061-bccd-d8988cd873bb</guid>
+      <guid>c7ba9163-c8cb-4524-9e2a-5bd7563340be</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Regression Test/Purchase/Purchase Order Draft</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4ac3d635-3c62-4ab7-a071-0a4b5b94ce15</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Regression Test/Purchase/Purchase Order Post New</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7e918484-c474-422b-8bb1-22b7b6ee39b9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Regression Test/Purchase/Purchase Order Post</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e5b48edb-560d-4e8a-a3b9-163884e5630e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Purchase/Purchase Return Post</testCaseId>

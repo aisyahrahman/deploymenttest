@@ -16,6 +16,9 @@ import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+Date todaysDate = new Date();
+def seq = todaysDate.format("dd-MMM-yyyy hh:mm:ss")
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://sit.irsalaya.com/Account/Login.aspx')
@@ -55,8 +58,7 @@ WebUI.click(findTestObject('Object Repository/Deployment test/Cash Purchase Post
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('Object Repository/Deployment test/Cash Purchase Post/input__ctl00MainContentCashPurchaseDetailcb_5c1e14'), 
-    'DEP09')
+WebUI.setText(findTestObject('Object Repository/Deployment test/Cash Purchase Post/input__ctl00MainContentCashPurchaseDetailcb_5c1e14'),seq)
 
 WebUI.delay(5)
 
@@ -96,5 +98,5 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/Deployment test/Cash Purchase Post/div_OK_1_2'))
 
-WebUI.delay(10)
+WebUI.delay(20)
 

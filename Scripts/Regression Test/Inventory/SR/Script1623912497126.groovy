@@ -17,6 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+Date todaysDate = new Date();
+def seq = todaysDate.format("dd-MMM-yyyy hh:mm:ss")
+
 WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
@@ -53,7 +56,7 @@ WebUI.click(findTestObject('Deployment test/SR2/td_KLEBANG'))
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('Deployment test/SR2/input__ctl00MainContentStockReceiveDetailcb_01ef97'), 'test')
+WebUI.setText(findTestObject('Deployment test/SR2/input__ctl00MainContentStockReceiveDetailcb_01ef97'),seq)
 
 WebUI.click(findTestObject('Deployment test/SR2/img_OK_ctl00_MainContent_StockReceiveDetail_30c0fe'))
 
@@ -66,4 +69,4 @@ WebUI.delay(5)
 WebUI.click(findTestObject('Deployment test/SR2/span_OK'))
 
 WebUI.click(findTestObject('Deployment test/SR2/div_Post'))
-WebUI.delay(10)
+WebUI.delay(20)

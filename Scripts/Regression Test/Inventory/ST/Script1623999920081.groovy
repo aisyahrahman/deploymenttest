@@ -17,6 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+Date todaysDate = new Date();
+def seq = todaysDate.format("dd-MMM-yyyy hh:mm:ss")
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://sit.irsalaya.com/Account/Login.aspx')
@@ -47,7 +50,7 @@ WebUI.click(findTestObject('Deployment test/ST/td_Loading_ctl00_MainContent_Inve
 WebUI.delay(4)
 WebUI.click(findTestObject('Deployment test/ST/td_BERCHAM RAYA'))
 WebUI.delay(4)
-WebUI.setText(findTestObject('Deployment test/ST/input__ctl00MainContentInventoryTransferDet_15fd43'), 'test')
+WebUI.setText(findTestObject('Deployment test/ST/input__ctl00MainContentInventoryTransferDet_15fd43'),seq)
 
 WebUI.click(findTestObject('Deployment test/ST/img_Additional Notes_ctl00_MainContent_Inve_79c398'))
 WebUI.delay(4)
@@ -56,4 +59,4 @@ WebUI.click(findTestObject('Deployment test/ST/td_30G JINTAN MANIS'))
 WebUI.click(findTestObject('Deployment test/ST/span_OK'))
 WebUI.delay(4)
 WebUI.click(findTestObject('Deployment test/ST/span_Post'))
-WebUI.delay(10)
+WebUI.delay(20)

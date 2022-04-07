@@ -17,6 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+Date todaysDate = new Date();
+def seq = todaysDate.format("dd-MMM-yyyy hh:mm:ss")
+
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://sit.irsalaya.com/Account/Login.aspx')
@@ -59,8 +62,7 @@ WebUI.click(findTestObject('Object Repository/Deployment test/AR/ARCN/span_OK'))
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('Object Repository/Deployment test/AR/ARCN/input__ctl00MainContentARCreditNoteDtlcbpAR_f32abe'), 
-    'Deployment Test')
+WebUI.setText(findTestObject('Object Repository/Deployment test/AR/ARCN/input__ctl00MainContentARCreditNoteDtlcbpAR_f32abe'),seq)
 
 WebUI.delay(5)
 
@@ -76,7 +78,8 @@ WebUI.click(findTestObject('Object Repository/Deployment test/AR/ARCN/td_350-000
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Object Repository/Deployment test/AR/ARCN/input_Description_ctl00MainContentARCreditN_4e7437'), FailureHandling.STOP_ON_FAILURE)
+WebUI.click(findTestObject('Object Repository/Deployment test/AR/ARCN/input_Description_ctl00MainContentARCreditN_4e7437'), 
+    FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/Deployment test/AR/ARCN/input_Description_ctl00MainContentARCreditN_4e7437'), 
     '2')
@@ -89,5 +92,5 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/Deployment test/AR/ARCN/span_Post'))
 
-WebUI.delay(5)
+WebUI.delay(20)
 

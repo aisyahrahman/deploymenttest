@@ -57,5 +57,5 @@ WebUI.delay(5)
 WebUI.click(findTestObject('Object Repository/Deployment test/Goods Return Post/span_OK'))
 WebUI.delay(5)
 WebUI.click(findTestObject('Object Repository/Deployment test/Goods Return Post/div_Post'))
-WebUI.delay(10)
+WebUI.delay(20)
 
