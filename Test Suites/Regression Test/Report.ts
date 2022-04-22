@@ -15,24 +15,24 @@
       <guid>4265824a-1706-4832-afea-83a3c703435f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Regression Test/Report/AP-VA</testCaseId>
+      <testCaseId>Test Cases/Regression Test/Report/AP/AP-VA</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>da719bbd-749e-4eea-9b37-d81d61940956</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Regression Test/Report/AR-CA</testCaseId>
+      <testCaseId>Test Cases/Regression Test/Report/AR/AR-CA</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>711c29fc-9ed3-4a97-bcf7-aeef5ba45758</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Regression Test/Report/GL-GL</testCaseId>
+      <testCaseId>Test Cases/Regression Test/Report/GL/GL-GL</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>506fb666-5a77-434d-b3f7-2f9f9030b452</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Regression Test/Report/IV-SC</testCaseId>
+      <testCaseId>Test Cases/Regression Test/Report/IV/IV-SC</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

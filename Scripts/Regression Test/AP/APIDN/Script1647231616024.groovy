@@ -17,8 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Date todaysDate = new Date();
-def seq = todaysDate.format("dd-MMM-yyyy hh:mm:ss")
+Date todaysDate = new Date()
+
+def seq = todaysDate.format('dd-MMM-yyyy hh:mm:ss')
 
 WebUI.openBrowser('')
 
@@ -60,7 +61,8 @@ WebUI.click(findTestObject('Object Repository/Deployment test/AP/API/span_OK'))
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('Object Repository/Deployment test/AP/API/input__ctl00MainContentAPJournalEntryDtlcbp_6ad2e9'),seq)
+WebUI.setText(findTestObject('Object Repository/Deployment test/AP/API/input__ctl00MainContentAPJournalEntryDtlcbp_6ad2e9'), 
+    seq)
 
 WebUI.delay(0)
 
@@ -83,7 +85,7 @@ WebUI.setText(findTestObject('Object Repository/Deployment test/AP/API/input_Des
 
 WebUI.click(findTestObject('Deployment test/AP/API/PN/div_Post  New'))
 
-WebUI.delay(10)
+WebUI.delay(30)
 
 WebUI.click(findTestObject('Object Repository/Deployment test/AP/API/img_Loading_ctl00_MainContent_APJournalEntryDtl_cbpAPJournalEntry_cbpAPJournalEntryDetail_ASPxRoundPanel1_formAPJEHeader_cbVendor_cbVendor_B1Img'))
 
@@ -97,7 +99,8 @@ WebUI.click(findTestObject('Object Repository/Deployment test/AP/API/span_OK'))
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('Object Repository/Deployment test/AP/API/input__ctl00MainContentAPJournalEntryDtlcbp_6ad2e9'),seq)
+WebUI.setText(findTestObject('Object Repository/Deployment test/AP/API/input__ctl00MainContentAPJournalEntryDtlcbp_6ad2e9'), 
+    'D'+seq)
 
 WebUI.delay(0)
 

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Cust Monthly Sales and payment analysis</description>
+   <name>Monthly Sales n Payment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba1946a0-1f67-4a54-97d4-77623bb675dc</testCaseGuid>
+</TestCaseEntity>

@@ -12,85 +12,85 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>88dd797f-5ac0-471b-b5f5-eec18af8cb64</testSuiteGuid>
    <testCaseLink>
-      <guid>721e47b2-30b6-46b4-a073-e16f1bce45e0</guid>
+      <guid>fa0d0594-26f1-4c0c-bd92-a46395716717</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Inventory/SA Draft</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>7802a094-161d-481d-9e12-86dfe98445e8</guid>
+      <guid>4f1239ec-d9d7-4103-8624-297022bd1369</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Inventory/SA Post N New</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>971d969d-18e6-4808-a411-02d289494f96</guid>
+      <guid>58eba56b-6ce8-4e36-a316-38f19cb0bc96</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Inventory/SA</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>1f7dde9f-abfd-491d-9ca4-a0af6f09a957</guid>
+      <guid>d6015bb0-4ad2-4929-83ea-831a8ddec439</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Inventory/SI Draft</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>bacaa324-cfce-4569-90f6-c5a3af203630</guid>
+      <guid>27b78a2c-8fd4-4ceb-aaca-1e10560e4dcb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Inventory/SI Post N New</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>6d228360-630a-4c45-a108-8d8cce388443</guid>
+      <guid>06795065-d9ba-4ebf-b226-81f9f5c87d7d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Inventory/SI Post</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>529917dc-cae3-401e-8805-d8b64b6b574f</guid>
+      <guid>a0c37c83-e96c-45e0-8cd7-f1d871c427ff</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Inventory/SR Draft</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>1782ea23-735e-4ba4-95da-16d9f276cd82</guid>
+      <guid>1d1beb24-51fc-487d-8a3c-d706ee836ea8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Inventory/SR Post N New</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>122af17e-9362-402d-8c8b-1bb067712ed3</guid>
+      <guid>4bc62e38-ee36-438a-9bb1-750e7576a55d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Inventory/SR</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>5857e875-8819-48b1-8d03-188e3b355e94</guid>
+      <guid>a734c250-c2ea-4036-9499-9737db351392</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Inventory/ST Draft</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>77ac8921-e7eb-4f45-a869-e7aa3bab898c</guid>
+      <guid>74187fe2-2164-4c4a-8916-bc1ade682927</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Inventory/ST Post n New</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>96589aec-d21c-4c4b-9763-94c6efca53e3</guid>
+      <guid>c3955c6f-b10c-46d9-b96c-1cb9e2d63bea</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Inventory/ST</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>dcd29852-052a-473d-bf35-257f47341b4f</guid>
+      <guid>b438c258-9f29-47e2-bc22-b50b892b3b8a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Inventory/STR DPN</testCaseId>
    </testCaseLink>
    <testCaseLink>
-      <guid>c90e12f1-2670-4359-9108-910616188a06</guid>
+      <guid>7e2f7b38-7c27-4e0b-8532-59039dbc0cf3</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Regression Test/Inventory/STR Post</testCaseId>

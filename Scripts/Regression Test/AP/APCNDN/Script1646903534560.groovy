@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+Date todaysDate = new Date()
 
-Date todaysDate = new Date();
-def seq = todaysDate.format("dd-MMM-yyyy hh:mm:ss")
+def seq = todaysDate.format('dd-MMM-yyyy hh:mm:ss')
 
 WebUI.openBrowser('')
 
@@ -59,7 +59,8 @@ WebUI.click(findTestObject('Object Repository/Deployment test/AP/APCN/span_OK'))
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('Object Repository/Deployment test/AP/APCN/input__ctl00MainContentAPCreditNoteDtlcbpAP_a16ea8'),seq)
+WebUI.setText(findTestObject('Object Repository/Deployment test/AP/APCN/input__ctl00MainContentAPCreditNoteDtlcbpAP_a16ea8'), 
+    seq)
 
 WebUI.click(findTestObject('Object Repository/Deployment test/AP/APCN/img_Tax Itemize_ctl00_MainContent_APCreditN_9f7465'))
 
@@ -89,7 +90,7 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Deployment test/AP/APCN/PN/div_Post  New'))
 
-WebUI.delay(5)
+WebUI.delay(30)
 
 WebUI.click(findTestObject('Object Repository/Deployment test/AP/APCN/td_Loading_ctl00_MainContent_APCreditNoteDtl_cbpAPCreditNote_cbpAPCreditNoteDetail_ASPxRoundPanel1_formAPCNHeader_cbVendor_cbVendor_B1'))
 
@@ -99,7 +100,8 @@ WebUI.click(findTestObject('Object Repository/Deployment test/AP/APCN/span_OK'))
 
 WebUI.delay(5)
 
-WebUI.setText(findTestObject('Object Repository/Deployment test/AP/APCN/input__ctl00MainContentAPCreditNoteDtlcbpAP_a16ea8'),seq)
+WebUI.setText(findTestObject('Object Repository/Deployment test/AP/APCN/input__ctl00MainContentAPCreditNoteDtlcbpAP_a16ea8'), 
+    seq)
 
 WebUI.click(findTestObject('Object Repository/Deployment test/AP/APCN/img_Tax Itemize_ctl00_MainContent_APCreditN_9f7465'))
 
